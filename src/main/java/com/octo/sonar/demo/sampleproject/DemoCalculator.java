@@ -18,6 +18,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findSum(int, int)
+	 * Addition of two numbers
 	 */
 	@Override
 	public int findSum(int a, int b) {
