@@ -9,6 +9,8 @@ package com.octo.sonar.demo.sampleproject;
  */
 public class DemoCalculator implements DemoCalculatorInterface {
 	private final static Integer abc = new Integer(1);
+	int result addSum = 0;
+	System.out.println ("The add sum is " + addSum);
 
 	/**
 	 * This is the demo calculator class
