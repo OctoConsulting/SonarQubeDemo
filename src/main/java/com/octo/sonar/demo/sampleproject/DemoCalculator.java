@@ -11,6 +11,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	private final static Integer abc = new Integer(1);
 	int result addSum = 0;
 	System.out.println ("The add sum is " + addSum);
+	System.out.println ("The add sum 2 is " + addSum);
 
 	/**
 	 * This is the demo calculator class
