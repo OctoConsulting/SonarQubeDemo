@@ -16,5 +16,7 @@ public class App
         System.out.println ("Try SCM commit on Jenkins6");
         System.out.println ("Try SCM commit on Jenkins7");
 		System.out.println ("Try SCM commit on Jenkins8");
+		System.out.println ("Try SCM commit on Jenkins9");
+		System.out.println ("Try SCM commit on Jenkins10");
     }
 }
