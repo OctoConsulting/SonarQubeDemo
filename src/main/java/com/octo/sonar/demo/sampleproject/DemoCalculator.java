@@ -12,7 +12,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	int result addSum = 0;
 	System.out.println ("The add sum is " + addSum);
 	System.out.println ("The add sum 2 is " + addSum);
-
+	System.out.println ("The add sum 3 is " + addSum);
 	/**
 	 * This is the demo calculator class
 	 *
