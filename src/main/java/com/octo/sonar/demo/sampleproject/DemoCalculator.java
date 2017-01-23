@@ -1,5 +1,5 @@
 /**
- * 
+ * Octo Consulting Inc
  */
 package com.octo.sonar.demo.sampleproject;
 
@@ -37,6 +37,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findProduct(int, int)
+	 * Product of two numbers 1, 2 1*x2 = 2
 	 */
 	@Override
 	public int findProduct(int a, int b) {
