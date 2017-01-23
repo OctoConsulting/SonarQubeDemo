@@ -9,13 +9,12 @@ package com.octo.sonar.demo.sampleproject;
  */
 public class DemoCalculator implements DemoCalculatorInterface {
 	private final static Integer abc = new Integer(1);
-	int result2 addSum = 0;
 	int result addSum10 = 10;
-	System.out.println ("The add sum is " + addSum);
-	System.out.println ("The add sum 2 is " + addSum);
-	System.out.println ("The add sum 3 is " + addSum);
-	System.out.println ("The add sum 3 is " + addSum);
-	System.out.println ("The add sum 3 is " + addSum);
+	System.out.println ("The add sum is " + addSum10);
+	System.out.println ("The add sum 2 is " + addSum10);
+	System.out.println ("The add sum 3 is " + addSum10);
+	System.out.println ("The add sum 3 is " + addSum10);
+	System.out.println ("The add sum 3 is " + addSum10);
 	/**
 	 * This is the demo calculator class
 	 *
