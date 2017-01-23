@@ -1,4 +1,8 @@
 package com.octo.sonar.demo.sampleproject;
+/*
+* Interface DemoCalculatorInterface
+* Define calculator operations
+*/
 
 public interface DemoCalculatorInterface {
 		int findSum(int a, int b);
