@@ -1,5 +1,5 @@
 /**
- * Octo Consulting Inc
+ * Octo Consulting Inc Mc Lean VA
  */
 package com.octo.sonar.demo.sampleproject;
 
