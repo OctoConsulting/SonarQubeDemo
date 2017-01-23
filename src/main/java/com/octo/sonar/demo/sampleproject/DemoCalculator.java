@@ -28,6 +28,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findDifference(int, int)
+	 * Subtraction of two numbers 2,1 example 2-1 =1
 	 */
 	@Override
 	public int findDifference(int a, int b) {
