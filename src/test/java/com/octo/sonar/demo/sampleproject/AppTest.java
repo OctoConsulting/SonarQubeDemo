@@ -23,7 +23,7 @@ public class AppTest {
 
 	@Before
 	public void beforeEachTest() {
-		System.out.println("This is executed before each Test");
+		System.out.println("This is executed before each Test ");
 	}
 
 	@After
