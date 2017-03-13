@@ -34,7 +34,6 @@ public class AppTest {
 	@Test
 	public void testSum() {
 		int result = calculator.findSum(3, 4);
-
 		assertEquals(7, result);
 	}
 
