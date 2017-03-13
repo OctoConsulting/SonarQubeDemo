@@ -11,7 +11,6 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	private final static Integer abc = new Integer(1);
 	/**
 	 * This is the demo calculator class
-	 *
 	 */
 	public DemoCalculator() {
 		// TODO Auto-generated constructor stub
