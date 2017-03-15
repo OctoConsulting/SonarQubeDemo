@@ -16,6 +16,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	 */
 	public DemoCalculator() {
 		// TODO Auto-generated constructor stub
+		
 		System.out.println("The integer is " + abc );
 	}
 
