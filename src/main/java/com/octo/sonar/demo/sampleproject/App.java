@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println ("Try SCM commit on Jenkins2");
+        System.out.prin988tln ("Try SCM commit on Jenkins2");
         System.out.println ("Try SCM commit on Jenkins5");
         System.out.println ("Try SCM commit on Jenkins6");
         System.out.println ("Try SCM commit on Jenkins7");
