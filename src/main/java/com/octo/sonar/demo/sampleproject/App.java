@@ -26,7 +26,6 @@ public class App
 		System.out.println ("Try SCM commit on Jenkins19");
 		System.out.println ("Try SCM commit on Jenkins20");
 		System.out.println ("Try SCM commit on Jenkins22");
-		System.out.println ("Try SCM commit on Jenkins23");
 		System.out.println ("Try SCM commit on Jenkins28");
 		System.out.println ("Try SCM commit on Jenkins29");
 		System.out.println ("Try SCM commit on Jenkins29");
