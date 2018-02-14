@@ -20,6 +20,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		System.out.println("The integer is " + abc );
 		System.out.println("The integer is " + abc );
 		System.out.println("The integer is " + abc );
+		System.out.println("The integer is " + abc );
 	}
 
 	/* (non-Javadoc)
