@@ -61,7 +61,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		}
 
 		
-		return a / b
+		return a / b;
 	}
 
 	/* (non-Javadoc)
