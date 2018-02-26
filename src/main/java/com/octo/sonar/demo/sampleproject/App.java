@@ -11,8 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Try SCM commit on Jenkins2");
         System.out.println ("Try SCM commit on Jenkins5");
-		System.out.println( "Hello World!" );
-		System.out.println( "Hello World!" );
         System.out.println("Try SCM commit on Jenkins2");
         System.out.println ("Try SCM commit on Jenkins5");
 		System.out.println ("Try SCM commit on Jenkins9");
