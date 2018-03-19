@@ -54,6 +54,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface
 	 * #findDivision(int, int)
 	 */
+	 
 	@Override
 	public int findDivision(int a, int b) throws Exception {
 		if (b == 0) {
