@@ -74,7 +74,6 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		if (a == b) {
 			result = true;
 		}
-
 		return result;
 	}
 
