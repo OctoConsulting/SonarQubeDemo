@@ -66,7 +66,6 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface
 	 * #compareNumbers(int, int)
-	 *
 	 */
 	@Override
 	public boolean compareNumbers(int a, int b) {
