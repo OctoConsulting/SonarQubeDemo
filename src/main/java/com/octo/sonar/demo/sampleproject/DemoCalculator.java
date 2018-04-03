@@ -61,7 +61,6 @@ public class DemoCalculator implements DemoCalculatorInterface {
 			throw new Exception("Divider can't be zero");
 		}
 		return a / b;
-		
 	}
 
 	/* (non-Javadoc)
