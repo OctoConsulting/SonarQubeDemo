@@ -28,7 +28,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	 */
 	@Override
 	public int findSum(int a, int b) {
-		return a + b
+		return a + b;
 	}
 	
 
