@@ -18,9 +18,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		// TODO Auto-generated constructor stub
 		System.out.println("The integer is " + abc );
 		System.out.println("The integer is " + abc );
-		System.out.println("The integer is " + abc );
 	}
-
 	
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findSum(int, int)
