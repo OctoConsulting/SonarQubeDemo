@@ -22,7 +22,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		System.out.println("This is exceuted after each Test ");
 		
 	}
-	/* (non-Javadoc)
+	/*
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findSum(int, int)
 	 * Addition of two numbers 1,2 example 1+2 =3
 	 */
