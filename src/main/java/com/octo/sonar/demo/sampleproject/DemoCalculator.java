@@ -20,7 +20,6 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		System.out.println("The integer is " + abc );
 		System.out.println("The integer is " + abc );
 		System.out.println("This is exceuted after each Test ");
-		
 	}
 	/*
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findSum(int, int)
