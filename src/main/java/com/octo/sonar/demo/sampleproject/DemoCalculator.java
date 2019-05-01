@@ -12,6 +12,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	
 	/**
 	 * This is the demo calculator class
+	 *
 	 */
 	public DemoCalculator() {
 		
