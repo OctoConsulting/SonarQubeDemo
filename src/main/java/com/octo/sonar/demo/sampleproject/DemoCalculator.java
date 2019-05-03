@@ -1,10 +1,11 @@
 /**
- * Octo Consulting Inc Mc Lean VA
+ * Octo Consulting Inc Reston VA
  */
 package com.octo.sonar.demo.sampleproject;
 
 /**
  * @author Viswanath.Nandanavanam
+ *
  *
  */
 public class DemoCalculator implements DemoCalculatorInterface {
@@ -34,7 +35,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findDifference(int, int)
-	 * Subtraction of two numbers 2,1 example 2-1 =1
+	 * Subtraction of two numbers 2,1 example 2-1  - 1
 	 *
 	 */
 	@Override
