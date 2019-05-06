@@ -20,7 +20,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		// TODO Auto-generated constructor stub
 		System.out.println("The integer is " + abc );
 		System.out.println("The integer is " + abc );
-		System.out.println("The integer is " + abc );
+		System.out.println("The integer is " + abc );\
 		System.out.println("This is exceuted after each Test ");
 	}
 	/*
