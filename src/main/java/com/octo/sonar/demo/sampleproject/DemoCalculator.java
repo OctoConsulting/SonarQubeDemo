@@ -60,7 +60,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	@Override
 	public int findDivision(int a, int b) throws Exception {
 		if (b == 0) {
-			throw new Exception("Divider can't be zero");
+			throw new Exception("Divider cannot be zero");
 		}
 		return a / b;
 	}
