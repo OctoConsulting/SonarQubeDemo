@@ -9,7 +9,7 @@ package com.octo.sonar.demo.sampleproject;
  *
  */
 public class DemoCalculator implements DemoCalculatorInterface {
-	private final static Integer abc = new Integer(1);
+	private final static Integer abc = new Integer(5);
 	
 	/**
 	 * This is the demo calculator class
