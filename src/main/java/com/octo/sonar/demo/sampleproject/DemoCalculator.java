@@ -50,7 +50,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	@Override
 	public int findProduct(int a, int b) {
 		
-		return a * b
+		return a * b;
 	}
 
 	/* (non-Javadoc)
