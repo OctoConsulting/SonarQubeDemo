@@ -17,8 +17,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		// TODO Auto-generated constructor stub
 		System.out.println("The integer is " + abc );
 		System.out.println("The integer is " + abc );
-		System.out.println("The integer is " + abc );
-		
+		System.out.println("The integer is " + abc );	
 	}
 	
 	/* (non-Javadoc)
@@ -30,7 +29,6 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		return a + b;
 	}
 	
-
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findDifference(int, int)
 	 * Subtraction of two numbers 2,1 example 2-1 =1
