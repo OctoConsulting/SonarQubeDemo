@@ -33,6 +33,8 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	 * Subtraction of two numbers 2,1 example 2-1 =1
 	 */
 	 
+	 
+	 
 	@Override
 	public int findDifference(int a, int b) {
 		return a - b;
