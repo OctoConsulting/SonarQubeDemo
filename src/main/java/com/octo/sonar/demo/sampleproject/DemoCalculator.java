@@ -28,11 +28,11 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	public int findSum(int a, int b) {
 		return a + b;
 	}
-	
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findDifference(int, int)
 	 * Subtraction of two numbers 2,1 example 2-1 =1
 	 */
+	 
 	@Override
 	public int findDifference(int a, int b) {
 		return a - b;
@@ -42,6 +42,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findProduct(int, int)
 	 * Product of two numbers 1, 2 1*x2 = 2
 	 */
+	 
 	@Override
 	public int findProduct(int a, int b) {
 		return a * b;
