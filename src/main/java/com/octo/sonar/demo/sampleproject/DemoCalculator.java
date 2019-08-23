@@ -23,6 +23,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	public int findSum(int a, int b) {
 		return a + b;
 	}
+	
 	/* (non-Javadoc)
 	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findDifference(int, int)
 	 * Subtraction of two numbers 2,1 example 2-1 =1
