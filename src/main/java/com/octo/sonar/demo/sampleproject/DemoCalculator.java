@@ -17,6 +17,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 		// TODO Auto-generated constructor stub
 		System.out.println("The integer is " + abc );
 		System.out.println("The integer is " + abc );
+		
 	}
 	
 	@Override
@@ -32,6 +33,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	@Override
 	public int findDifference(int a, int b) {
 		return a - b
+		
 	}
 	 
 	@Override
