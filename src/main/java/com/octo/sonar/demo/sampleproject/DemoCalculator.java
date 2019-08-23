@@ -32,7 +32,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	 
 	@Override
 	public int findDifference(int a, int b) {
-		return a - b
+		return a - b;
 		
 	}
 	 
