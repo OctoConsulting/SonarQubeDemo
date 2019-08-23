@@ -32,11 +32,6 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	public int findDifference(int a, int b) {
 		return a - b;
 	}
-
-	/* (non-Javadoc)
-	 * @see com.octo.sonar.demo.sampleproject.DemoCalculatorInterface#findProduct(int, int)
-	 * Product of two numbers 1, 2 1*x2 = 2
-	 */
 	 
 	@Override
 	public int findProduct(int a, int b) {
