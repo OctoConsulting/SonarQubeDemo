@@ -10,9 +10,6 @@ package com.octo.sonar.demo.sampleproject;
 public class DemoCalculator implements DemoCalculatorInterface {
 	private final static Integer abc = new Integer(2);
 	
-	/**
-	 * This is the demo calculator class
-	 */
 	public DemoCalculator() {		
 		// TODO Auto-generated constructor stub
 		System.out.println("The integer is " + abc );
@@ -21,7 +18,7 @@ public class DemoCalculator implements DemoCalculatorInterface {
 	
 	@Override
 	public int findSum(int a, int b) {
-		return a + b;
+		return a + b
 	}
 	
 	/* (non-Javadoc)
